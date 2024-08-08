@@ -1,8 +1,8 @@
 ### **Spotify- Dashboard**
 
-Using: Power BI, Excel, HTML, Deneb
+Using: Power BI, Excel, HTML
 
-This Dashboard helps us to visualise the data of songs streamed on spotify till year 2023. 
+This Dashboard helps in visualising the data of songs streamed on spotify till year 2023. 
 We can view the most viewed songs till date or filtered by year.
 
 
